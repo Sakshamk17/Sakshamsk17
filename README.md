@@ -34,7 +34,7 @@ const saksham = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saksham-khobragade-a421112b7)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajkhobragade176@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sakshamsk17)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sakshamk17)
 
 </div>
 
@@ -86,7 +86,7 @@ const saksham = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sakshamsk17&theme=darkhub&no-frame=true&margin-w=10&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sakshamk17&theme=darkhub&no-frame=true&margin-w=10&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -96,15 +96,15 @@ const saksham = {
 
 <div align="center">
 
-![Saksham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakshamsk17&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![Saksham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sakshamk17&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 <br/>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=sakshamsk17&theme=dark&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Sakshamk17&theme=dark&hide_border=false)
 
 <br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshamsk17&theme=dark&hide_border=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshamk17&theme=dark&hide_border=false&layout=compact)
 
 </div>
 
@@ -114,7 +114,7 @@ const saksham = {
 
 <div align="center">
 
-[![Saksham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sakshamsk17&bg_color=0d1117&color=9b59b6&line=6E40C9&point=ffffff&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Saksham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sakshamk17&bg_color=0d1117&color=9b59b6&line=6E40C9&point=ffffff&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -132,7 +132,7 @@ const saksham = {
 
 <div align="center">
 
-[![](https://komarev.com/ghpvc/?username=sakshamsk17&color=6E40C9&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/sakshamsk17)
+[![](https://komarev.com/ghpvc/?username=Sakshamk17&color=6E40C9&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Sakshamk17)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=100&section=footer"/>
 
