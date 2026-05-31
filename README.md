@@ -19,9 +19,9 @@
 const saksham = {
   name: "Saksham Khobragade",
   role: "Full Stack Developer",
-  location: "Nagpur, Maharashtra IN",
+  location: "Pune, Maharashtra IN",
   passion: ["Scalable web apps", "Clean architecture", "Open-source"],
-  currentlyLearning: ["Agentic AI Systems", "Machine Learning", "System Design"],
+  currentlyLearning: ["Distributed Systems", "Cloud-Native (K8s/Docker)", "System Design"],
   funFact: "I translate complex business logic into clean, human-readable code ⚡"
 };
 ```
@@ -86,7 +86,7 @@ const saksham = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sakshamk17&theme=darkhub&no-frame=true&margin-w=10&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sakshamk17&theme=onestar&no-frame=true&margin-w=10&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -96,7 +96,7 @@ const saksham = {
 
 <div align="center">
 
-![Saksham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sakshamk17&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![Saksham's GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Sakshamk17&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 <br/>
 
@@ -104,7 +104,7 @@ const saksham = {
 
 <br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshamk17&theme=dark&hide_border=false&layout=compact)
+![Top Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Sakshamk17&theme=dark&hide_border=false&layout=compact)
 
 </div>
 
