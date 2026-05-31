@@ -5,9 +5,10 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C9B8FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Building+Scalable+Web+Apps+%E2%9A%A1;Open+to+Opportunities+%F0%9F%8C%99;Let%27s+Build+Something+Magical!+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C9B8FF&center=true&vCenter=true&width=600&lines=Crafting+Code+that+Scales+%F0%9F%9A%80;Turning+Ideas+into+Products+%E2%9A%A1;Always+Learning%2C+Always+Building+%F0%9F%8C%99;Clean+Code+%7C+Real+Impact+%E2%9C%A8)](https://git.io/typing-svg)
 
-<hr/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
 
 </div>
 
