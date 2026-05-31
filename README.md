@@ -19,9 +19,9 @@
 const saksham = {
   name: "Saksham Khobragade",
   role: "Full Stack Developer",
-  location: "Pune, Maharashtra IN",
+  location: "Nagpur, Maharashtra IN",
   passion: ["Scalable web apps", "Clean architecture", "Open-source"],
-  currentlyLearning: ["Distributed Systems", "Cloud-Native (K8s/Docker)", "System Design"],
+  currentlyLearning: ["Agentic AI Systems", "Machine Learning", "System Design"],
   funFact: "I translate complex business logic into clean, human-readable code ⚡"
 };
 ```
